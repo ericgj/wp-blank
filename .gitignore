@@ -1,5 +1,4 @@
 tmp/
-public.built/
 vendor/
-.vagrant/
+public/
 log/*.log
