@@ -3,7 +3,9 @@
     "description": "A template for installing and running WordPress on hosted servers, heavily adapted from xyu/heroku-wp",
     "license": "MIT",
     "require": {
-        "WordPress/WordPress": "*"
+        "WordPress/WordPress": "*",
+        "wpackagist-plugin/akismet": "~3",
+        "wpackagist-plugin/wordpress-importer": "*"
     },
     "repositories": [
         {
